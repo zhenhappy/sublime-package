@@ -1,4 +1,13 @@
 {
+// Dark-Material 主题设置
+	"overlay_scroll_bars": "enabled",
+	"line_padding_top": 3,
+	"line_padding_bottom": 3,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"theme": "Dark-Material.sublime-theme",
+	"color_scheme": "Packages/Theme - Dark Material/schemes/Dark-Material.tmTheme",
+
 	"auto_complete_commit_on_tab": true,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
