@@ -6,13 +6,21 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"BracketHighlighter",
 		"Codecs33",
+		"Color Highlighter",
+		"ColorPicker",
 		"ConvertToUTF8",
+		"DocBlockr",
 		"Emmet",
 		"Git",
+		"JsFormat",
+		"LiveReloadMake",
+		"LiveStyle",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Sass",
+		"SideBarEnhancements",
 		"SublimeERB",
 		"SyncedSideBar",
 		"Theme - Dark Material"

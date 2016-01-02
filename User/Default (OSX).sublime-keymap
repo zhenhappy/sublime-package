@@ -1,5 +1,5 @@
 [
-  { "keys": ["shift+tab"], "command": "reindent" , "args": { "single_line": false } },
+  { "keys": ["ctrl+shift+tab"], "command": "reindent" , "args": { "single_line": false } },
 
 
   // 系统默认是  { "keys": ["ctrl+space"], "command": "auto_complete" },

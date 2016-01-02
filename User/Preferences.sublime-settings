@@ -1,14 +1,8 @@
 {
-// Dark-Material 主题设置
-	"overlay_scroll_bars": "enabled",
-	"line_padding_top": 3,
-	"line_padding_bottom": 3,
 	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
-	"theme": "Dark-Material.sublime-theme",
-	"color_scheme": "Packages/Theme - Dark Material/schemes/Dark-Material.tmTheme",
-
 	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Dark Material/schemes/Dark-Material.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -33,9 +27,11 @@
 	],
 	"line_padding_bottom": 7,
 	"line_padding_top": 7,
+	"overlay_scroll_bars": "enabled",
 	"remember_open_files": false,
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"theme": "Dark-Material.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
