@@ -3,8 +3,8 @@
 
 使用方法
 ```
-cd '/Users/zhenhappy/Library/Application Support/Sublime Text 3/Packages/'
-git clone git@github.com:happypeter/sublime-config.git
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+git clone git@github.com:zhenhappy/sublime-package.git
 mv sublime-package/* .
 rm -rf sublime-package
 ```
